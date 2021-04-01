@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matan Kastel</h1>
 <h3 align="center">A frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmtmaster&label=Profile%20views&color=0e75b6&style=flat" alt="zmtmaster" /> </p>
+
+<p align="left"> <a href="https://twitter.com/matankastel" target="blank"><img src="https://img.shields.io/twitter/follow/matankastel?logo=twitter&style=for-the-badge" alt="matankastel" /></a> </p>
+
 - 🌱 I’m currently learning **Typescript**
 
 - 📝 I sometimes write articles on Medium [https://medium.com/@zmtmaster](https://medium.com/@zmtmaster)
